@@ -5,3 +5,4 @@ Question 4: What is the difference between virtual enviroment and the not virtua
 Question 5: What status code is returned for "http://google.com? A 301 Error indicating the website has permenantly been moved. What URL must you visit to get a 200 status code? You must visit "http://www.google.com".
 Question 6: What status code is returned for "http://google.com/teapot"? The status code returned is 301. Is it the one returned by curl -i or curl -iL? It is the status code returned by curl -i. What happens when you curl http://www.google.com/teapot? I recieve a 418 status code.
 Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? A Post request was sent to the server located at this url. What is this method useful for? For sending post requests
+Question 8: What is the raw URL to your Python script on GitHub? https://raw.githubusercontent.com/Tommy-Sand/cmput404_lab1/main/version_script.py
