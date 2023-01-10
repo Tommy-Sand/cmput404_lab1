@@ -1,0 +1,7 @@
+Question 1: What is your GitHub URL? https://github.com/Tommy-Sand
+Question 2: What version is the requests library installed on the system? Version 2.25.1
+Question 3: What version is the requests library installed in the virtualenv? Version 2.28.1
+Question 4: What is the difference between virtual enviroment and the not virtual enviroment python? There have been 5 new versions released between Version 2.25.1 and 2.28.1 
+Question 5: What status code is returned for "http://google.com? A 301 Error indicating the website has permenantly been moved. What URL must you visit to get a 200 status code? You must visit "http://www.google.com".
+Question 6: What status code is returned for "http://google.com/teapot"? The status code returned is 301. Is it the one returned by curl -i or curl -iL? It is the status code returned by curl -i. What happens when you curl http://www.google.com/teapot? I recieve a 418 status code.
+Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? A Post request was sent to the server located at this url. What is this method useful for? For sending post requests
